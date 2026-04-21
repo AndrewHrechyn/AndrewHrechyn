@@ -1,4 +1,4 @@
-[21.04.2026 12:03] Andrew HRE4KA: <div align="center">
+<div align="center">
 
 # 👋 Hey, I'm Andrii
 
