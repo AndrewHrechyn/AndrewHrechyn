@@ -79,13 +79,14 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Numerical methods](https://github.com/AndrewHrechyn/Numerical-methods) | Numerical methods algorithms | `Python` `NumPy` |
+| [Numerical methods](https://github.com/AndrewHrechyn/Numerical-methods) | Numerical methods algorithms | `Python, NumPy` |
+| [Optimization methods](https://github.com/AndrewHrechyn/Optimization-algorithms) | Math, Finance optimization algorithms | `Python, NumPy` |
 
+---
 
 ## 👁 Computer Vision
 
 > Image classification, object detection
-[21.04.2026 12:03] Andrew HRE4KA: 
 
 | Project | Description | Stack |
 |---|---|---|
