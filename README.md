@@ -91,6 +91,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [MNIST image classification](https://github.com/AndrewHrechyn/Internship-Task/tree/main/task_1-image_classification_%26_oop) | Three different models compete to get the best metrics in image classification | `Python, MNIST, pandas, scikit-learn, PyTorch` |
+| [Named Entity Recognition + CNN](https://github.com/AndrewHrechyn/Internship-Task) | Investigate if objects on photo and in sentence are similiar | `Python, CNN, BERT, PyTorch` |
 
 ---
 
