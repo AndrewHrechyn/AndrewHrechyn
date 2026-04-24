@@ -68,7 +68,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Named Entity Recognition](https://github.com/AndrewHrechyn/Internship-Task) | Investigate if objects on photo and in sentence are similiar | `Python, BERT, PyTorch` |
-| [ChatGPT from Scratch](https://github.com/AndrewHrechyn/GPT-from-Scratch) | Currently in progress | `Python, PyTorch` |
+| [ChatGPT from Scratch](https://github.com/AndrewHrechyn/GPT-from-Scratch) | Basic GPT from scratch model trained on Shakespear texts | `Python, PyTorch` |
+| [How MoE works?](https://github.com/AndrewHrechyn/How-Mixture-of-Experts-works) | Currently in progress | `Python, PyTorch` |
 
 ---
 
