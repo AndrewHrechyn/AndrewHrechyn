@@ -17,7 +17,7 @@
 | 🔬 [Deep Learning](#-deep-learning) | Neural networks, architectures, research |
 | 💬 [NLP / LLM](#-nlp) | Text understanding, transformers, generation |
 | 📉 [Optimization](#-optimization-algorithms) | Mathematical modeling, solvers |
-| 👁 [Computer Vision](#️-computer-vision) | Image recognition, detection |
+| 👁 [Computer Vision](#-computer-vision) | Image recognition, detection |
 | 📷 [OpenCV Projects](#-opencv-projects) | Real-time video, filters, camera pipelines |
 | 🧩 [DSA](#-dsa) | Algorithms, data structures, problem solving |
 
@@ -67,7 +67,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Named Entity Recognition](https://github.com/AndrewHrechyn/Internship-Task) | Investigate if objects on photo and in sentence are similiar | `Python, BERT, PyTorch` |
+| [Named Entity Recognition](https://github.com/AndrewHrechyn/Internship-Task/tree/main/task_2-named_entity_recognition_and_image_classification) | Investigate if objects on photo and in sentence are similiar | `Python, BERT, PyTorch` |
 | [ChatGPT from Scratch](https://github.com/AndrewHrechyn/GPT-from-Scratch) | Basic GPT from scratch model trained on Shakespear texts | `Python, PyTorch` |
 | [How MoE works?](https://github.com/AndrewHrechyn/How-Mixture-of-Experts-works) | Currently in progress | `Python, PyTorch` |
 
@@ -91,7 +91,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [MNIST image classification](https://github.com/AndrewHrechyn/Internship-Task/tree/main/task_1-image_classification_%26_oop) | Three different models compete to get the best metrics in image classification | `Python, MNIST, pandas, scikit-learn, PyTorch` |
-| [Named Entity Recognition + CNN](https://github.com/AndrewHrechyn/Internship-Task) | Investigate if objects on photo and in sentence are similiar | `Python, CNN, BERT, PyTorch` |
+| [Named Entity Recognition + CNN](https://github.com/AndrewHrechyn/Internship-Task/tree/main/task_2-named_entity_recognition_and_image_classification) | Investigate if objects on photo and in sentence are similiar | `Python, CNN, BERT, PyTorch` |
 
 ---
 
