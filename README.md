@@ -15,7 +15,7 @@
 | 🤖 [Robotics](#-robotics) | Сontrol, simulation |
 | 🧠 [Machine Learning](#-machine-learning) | Classical ML, model training, pipelines |
 | 🔬 [Deep Learning](#-deep-learning) | Neural networks, architectures, research |
-| 💬 [NLP](#-nlp) | Text understanding, transformers, generation |
+| 💬 [NLP / LLM](#-nlp) | Text understanding, transformers, generation |
 | 📉 [Optimization](#-optimization-algorithms) | Mathematical modeling, solvers |
 | 👁 [Computer Vision](#️-computer-vision) | Image recognition, detection |
 | 📷 [OpenCV Projects](#-opencv-projects) | Real-time video, filters, camera pipelines |
@@ -61,7 +61,7 @@
 
 ---
 
-## 💬 NLP
+## 💬 NLP / LLM
 
 > Language models, text classification, named entity recognition, and more.
 
