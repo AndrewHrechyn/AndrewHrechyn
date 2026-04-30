@@ -30,7 +30,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Robotics](https://github.com/AndrewHrechyn/Robotics) | Math in Robotics, Theory of Control | `Math` `Python` `Visualization` |
-| [Control gamepad interface for XArm 7](https://github.com/AndrewHrechyn/Control-Ufactory-XArm-7-with-Gamepad) | Math in Robotics, Theory of Control | `Python` `XArm 7 XS13` `Joystick` |
+| [Control gamepad interface for XArm 7](https://github.com/AndrewHrechyn/Control-Ufactory-XArm-7-with-Gamepad) | IN PROGRESS | `Python` `XArm 7 XS13` `Joystick` |
 | [Simple SLAM](https://github.com/AndrewHrechyn/Simple-SLAM) | Coded a simple SLAM system in 2D with visualization | `SLAM` `Python` `Visualization` |
 | [Gazebo Drone Object Detection](https://github.com/IvanShyriaev/gazebo_drones) | Simulation of drone with YOLO detection model node and points on map | `Gazebo` `ROS2` `Python` |
 | [Applied Control Systems](https://github.com/AndrewHrechyn/Applied-Control-Systems-Course) | Theory of control in systems | `Python, Visualization, Math` |
