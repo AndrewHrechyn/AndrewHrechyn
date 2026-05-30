@@ -113,7 +113,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [LeetCode/CodeWars](https://github.com/AndrewHrechyn/Data-Structures-and-Algorithms-LeetCode) | DSA | `Python, C++` |
-| [Algotester](https://github.com/yourusername/project](https://github.com/AndrewHrechyn/Algotester)) | DSA | `Python, C++` |
+| [Algotester](https://github.com/AndrewHrechyn/Algotester) | DSA | `Python, C++` |
+| [Deep-ML](https://github.com/AndrewHrechyn/Deep-ML) | ML & DL problems | `Python, C++` |
 
 ---
 
