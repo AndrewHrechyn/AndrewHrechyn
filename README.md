@@ -71,6 +71,7 @@
 | [Named Entity Recognition](https://github.com/AndrewHrechyn/Internship-Task/tree/main/task_2-named_entity_recognition_and_image_classification) | Investigate if objects on photo and in sentence are similiar | `Python, BERT, PyTorch` |
 | [ChatGPT from Scratch](https://github.com/AndrewHrechyn/GPT-from-Scratch) | Basic GPT from scratch model trained on Shakespear texts | `Python, PyTorch` |
 | [How MoE works?](https://github.com/AndrewHrechyn/How-Mixture-of-Experts-works) | Currently in progress | `Python, PyTorch` |
+| [BERT from Scratch](https://github.com/AndrewHrechyn/BERT-from-Scratch) | Basic BERT from scratch model | `Python, PyTorch` |
 
 ---
 
